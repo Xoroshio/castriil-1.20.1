@@ -1,2 +1,3 @@
-# castriil-1.20.1
-Minecraft Forge 1.20.1 PvP Client called Castriil
+# castriil
+Minecraft Forge PvP Client called Castriil.
+Current supported versions are 1.20.1
