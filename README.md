@@ -1,3 +1,6 @@
 # castriil
 Minecraft Forge PvP Client called Castriil.
-Current supported versions are 1.20.1
+### Supported Minecraft/Minecraft Forge Versions
+1.20.1
+#### Other versions
+Use at your own risk!
